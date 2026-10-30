@@ -1,0 +1,23 @@
+# Memeriksa kajian.json setiap kali diubah, dengan validasi yang sama seperti
+# di aplikasi. Bila gagal, perbaiki dulu sebelum digabung ke main: aplikasi
+# akan mengabaikan file yang tidak valid dan tetap memakai konten lama.
+name: Validasi konten kajian
+
+on:
+  push:
+    paths: ['assets/data/kajian.json', 'lib/data/kajian_content.dart', 'lib/models/study.dart']
+  pull_request:
+    paths: ['assets/data/kajian.json', 'lib/data/kajian_content.dart', 'lib/models/study.dart']
+
+jobs:
+  validasi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - name: Validasi kajian.json
+        run: flutter test test/kajian_content_test.dart test/widget_test.dart

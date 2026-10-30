@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "version": 1,
+  "tags": {
+    "1:1": ["Basmalah", "Shalat"],
+    "1:2": ["Tauhid", "Pujian kepada Allah", "Shalat", "Keutamaan"],
+    "1:3": ["Asmaul Husna", "Rahmat Allah"],
+    "1:4": ["Hari Akhir"],
+    "1:5": ["Tauhid", "Ibadah", "Doa"],
+    "1:6": ["Doa", "Hidayah"],
+    "1:7": ["Hidayah", "Umat Terdahulu"],
+    "2:144": ["Kiblat", "Shalat", "Sirah Nabi"],
+    "2:183": ["Puasa", "Ramadhan", "Ibadah", "Takwa"],
+    "2:255": ["Tauhid", "Asmaul Husna", "Keutamaan", "Dzikir"],
+    "2:284": ["Hisab", "Hari Akhir", "Amalan Hati"],
+    "2:285": ["Iman", "Doa", "Ketaatan"],
+    "2:286": ["Doa", "Keutamaan", "Kemudahan Syariat"],
+    "5:3": ["Haji", "Sirah Nabi", "Halal dan Haram"],
+    "24:11": ["Adab Berita", "Sirah Nabi", "Akhlak"],
+    "24:12": ["Adab Berita", "Husnuzan"],
+    "24:15": ["Adab Berita", "Menjaga Lisan"],
+    "33:56": ["Shalawat", "Dzikir"],
+    "80:1": ["Akhlak", "Dakwah", "Sirah Nabi"],
+    "80:3": ["Dakwah", "Tazkiyatun Nafs"],
+    "96:1": ["Wahyu", "Ilmu", "Sirah Nabi"],
+    "96:4": ["Ilmu"],
+    "96:5": ["Ilmu"],
+    "108:1": ["Sirah Nabi", "Surga"],
+    "112:1": ["Tauhid", "Keutamaan"],
+    "112:2": ["Tauhid", "Asmaul Husna"],
+    "112:3": ["Tauhid"],
+    "112:4": ["Tauhid"]
+  },
+  "histories": [
+    {
+      "surah": 1, "from": 1, "to": 7,
+      "title": "Ummul Kitab, pembuka Al-Qur'an",
+      "period": "Makkiyah · Periode awal kenabian",
+      "content": "Al-Fatihah termasuk surat Makkiyah dan merupakan surat pertama yang diturunkan secara lengkap. Ia diletakkan di awal mushaf sehingga disebut Fatihatul Kitab (pembuka kitab). Rasulullah ﷺ juga menamainya Ummul Qur'an dan As-Sab'ul Matsani (tujuh ayat yang diulang-ulang), karena dibaca berulang pada setiap rakaat shalat.\n\nSurat ini memuat ringkasan pokok ajaran Al-Qur'an: tauhid (pujian kepada Allah, Rabb semesta alam), hari pembalasan, ibadah dan permohonan pertolongan hanya kepada-Nya, serta permohonan petunjuk ke jalan orang-orang yang diberi nikmat.",
+      "sources": "Shahih Al-Bukhari no. 4474; Tafsir Ibnu Katsir; Tafsir Kemenag RI"
+    },
+    {
+      "surah": 2, "from": 144, "to": 144,
+      "title": "Perpindahan kiblat ke Ka'bah",
+      "period": "Madaniyah · Tahun ke-2 Hijriyah",
+      "content": "Setibanya di Madinah, Rasulullah ﷺ dan kaum muslimin shalat menghadap Baitul Maqdis selama enam belas atau tujuh belas bulan. Beliau sangat ingin agar kiblat dialihkan ke Ka'bah, kiblat Nabi Ibrahim, dan sering menengadahkan wajah ke langit menanti wahyu.\n\nKemudian turunlah ayat ini yang memerintahkan untuk menghadapkan wajah ke arah Masjidil Haram. Sebagian sahabat yang sedang shalat di masjid lain mendengar kabar ini lalu berputar menghadap Ka'bah di tengah shalatnya. Peristiwa ini juga menjadi ujian: kaum munafik dan sebagian Ahli Kitab mempertanyakannya, sebagaimana disebut pada ayat 142.",
+      "sources": "Shahih Al-Bukhari no. 40; Shahih Muslim no. 525"
+    },
+    {
+      "surah": 2, "from": 183, "to": 183,
+      "title": "Diwajibkannya puasa Ramadhan",
+      "period": "Madaniyah · Sya'ban tahun ke-2 Hijriyah",
+      "content": "Puasa Ramadhan diwajibkan pada tahun kedua Hijriyah, setelah kaum muslimin menetap di Madinah. Ayat ini menegaskan bahwa puasa juga diwajibkan kepada umat-umat sebelumnya, dan tujuannya adalah agar orang beriman bertakwa.\n\nPada tahun yang sama terjadi perpindahan kiblat dan Perang Badar (17 Ramadhan 2 H), sehingga Ramadhan pertama yang diwajibkan berpuasa sekaligus menjadi bulan kemenangan besar pertama kaum muslimin.",
+      "sources": "Sirah Nabawiyah; Tafsir Ibnu Katsir"
+    },
+    {
+      "surah": 2, "from": 255, "to": 255,
+      "title": "Ayat Kursi, ayat paling agung",
+      "period": "Madaniyah",
+      "content": "Ayat ini dikenal sebagai Ayat Kursi karena menyebut Kursi Allah yang meliputi langit dan bumi. Tidak ada riwayat asbabun nuzul khusus yang masyhur untuk ayat ini. Keistimewaannya terletak pada kandungannya: penegasan tauhid, sifat Allah Al-Hayyu (Maha Hidup) dan Al-Qayyum (terus-menerus mengurus makhluk), serta keluasan ilmu dan kekuasaan-Nya.\n\nRasulullah ﷺ pernah menguji Ubay bin Ka'ab tentang ayat paling agung dalam Al-Qur'an, dan Ubay menjawab ayat ini.",
+      "sources": "Shahih Muslim no. 810; Tafsir Ibnu Katsir"
+    },
+    {
+      "surah": 2, "from": 284, "to": 286,
+      "title": "Kegelisahan sahabat dan turunnya penutup Al-Baqarah",
+      "period": "Madaniyah",
+      "content": "Ketika turun ayat 284 (\"...jika kamu menyatakan apa yang ada di dalam hatimu atau menyembunyikannya, niscaya Allah memperhitungkannya\"), para sahabat merasa sangat berat. Mereka mendatangi Rasulullah ﷺ, berlutut, dan berkata bahwa mereka tidak sanggup.\n\nRasulullah ﷺ menasihati agar mereka tidak berkata seperti Ahli Kitab yang mengucapkan \"kami dengar dan kami durhaka\", tetapi ucapkanlah \"sami'na wa atha'na\" (kami dengar dan kami taat). Setelah lisan mereka terbiasa mengucapkannya, Allah menurunkan ayat 285, lalu ayat 286 yang menegaskan bahwa Allah tidak membebani seseorang melainkan sesuai kesanggupannya.",
+      "sources": "Shahih Muslim no. 125 (dari Abu Hurairah)"
+    },
+    {
+      "surah": 5, "from": 3, "to": 3,
+      "title": "Sempurnanya agama pada Haji Wada'",
+      "period": "Madaniyah · Hari Arafah, 9 Dzulhijjah 10 H",
+      "content": "Penggalan ayat \"Pada hari ini telah Aku sempurnakan untukmu agamamu...\" turun pada hari Jumat, ketika Rasulullah ﷺ wukuf di Arafah dalam Haji Wada' (haji perpisahan), sekitar tiga bulan sebelum beliau wafat.\n\nSeorang Yahudi pernah berkata kepada Umar bin Khattab bahwa seandainya ayat ini turun kepada mereka, niscaya hari itu dijadikan hari raya. Umar menjawab bahwa ia mengetahui hari dan tempat turunnya: hari Arafah, pada hari Jumat.",
+      "sources": "Shahih Al-Bukhari no. 45; Shahih Muslim no. 3017"
+    },
+    {
+      "surah": 24, "from": 11, "to": 20,
+      "title": "Haditsul Ifki: fitnah terhadap Aisyah",
+      "period": "Madaniyah · Sepulang perang Bani Mushthaliq (5/6 H)",
+      "content": "Sepulang dari peperangan Bani Mushthaliq, Aisyah radhiyallahu 'anha tertinggal dari rombongan karena mencari kalungnya yang hilang. Ia kemudian diantar oleh sahabat Shafwan bin Al-Mu'aththal. Kaum munafik yang dipimpin Abdullah bin Ubay menyebarkan berita dusta (ifk) tentang keduanya, dan sebagian kaum muslimin ikut membicarakannya.\n\nSelama sekitar satu bulan wahyu tidak turun, Aisyah jatuh sakit dan sangat bersedih. Lalu Allah menurunkan ayat-ayat ini yang membersihkan nama Aisyah, mencela para penyebar fitnah, dan mengajarkan adab menyikapi berita: berprasangka baik dan menuntut bukti.",
+      "sources": "Shahih Al-Bukhari no. 4750; Shahih Muslim no. 2770"
+    },
+    {
+      "surah": 33, "from": 56, "to": 56,
+      "title": "Perintah bershalawat kepada Nabi ﷺ",
+      "period": "Madaniyah",
+      "content": "Ayat ini memberitakan bahwa Allah dan para malaikat-Nya bershalawat kepada Nabi, lalu memerintahkan orang-orang beriman untuk bershalawat dan mengucapkan salam kepada beliau. Setelah ayat ini turun, para sahabat bertanya kepada Rasulullah ﷺ tentang tata cara bershalawat, lalu beliau mengajarkan shalawat Ibrahimiyah yang kemudian dibaca dalam tasyahud.",
+      "sources": "Shahih Al-Bukhari no. 3370; Tafsir Ibnu Katsir"
+    },
+    {
+      "surah": 80, "from": 1, "to": 10,
+      "title": "Teguran tentang Abdullah bin Ummi Maktum",
+      "period": "Makkiyah",
+      "content": "Suatu ketika Rasulullah ﷺ sedang berdakwah kepada para pembesar Quraisy dengan harapan mereka masuk Islam. Datanglah Abdullah bin Ummi Maktum, seorang sahabat tunanetra, meminta diajari. Rasulullah ﷺ bermuka masam dan berpaling darinya karena sedang sibuk dengan para pembesar itu.\n\nAllah lalu menurunkan ayat-ayat ini sebagai teguran yang lembut. Setelahnya, Rasulullah ﷺ sangat memuliakan Ibnu Ummi Maktum, bahkan beberapa kali mengangkatnya sebagai pengganti beliau di Madinah ketika beliau bepergian.",
+      "sources": "Sunan At-Tirmidzi no. 3331 (dari Aisyah); Tafsir Ibnu Katsir"
+    },
+    {
+      "surah": 96, "from": 1, "to": 5,
+      "title": "Wahyu pertama di Gua Hira",
+      "period": "Makkiyah · Ramadhan, awal kenabian (±610 M)",
+      "content": "Sebelum diangkat menjadi nabi, Muhammad ﷺ gemar menyendiri (tahannuts) di Gua Hira. Pada suatu malam di bulan Ramadhan, malaikat Jibril datang dan berkata, \"Iqra'!\" (Bacalah!). Beliau menjawab, \"Aku tidak bisa membaca.\" Jibril mendekap beliau dengan kuat hingga tiga kali, lalu membacakan lima ayat pertama surat Al-'Alaq.\n\nRasulullah ﷺ pulang dengan gemetar kepada Khadijah dan berkata, \"Selimutilah aku!\" Khadijah menenangkan beliau dengan menyebut akhlak mulianya, lalu membawanya kepada Waraqah bin Naufal yang menjelaskan bahwa yang datang adalah An-Namus (Jibril) yang dahulu datang kepada Nabi Musa.",
+      "sources": "Shahih Al-Bukhari no. 3; Shahih Muslim no. 160 (dari Aisyah)"
+    },
+    {
+      "surah": 108, "from": 1, "to": 3,
+      "title": "Hiburan bagi Nabi atas ejekan \"abtar\"",
+      "period": "Makkiyah",
+      "content": "Ketika putra-putra Rasulullah ﷺ wafat di usia kecil, sebagian pembesar Quraisy, di antaranya Al-'Ash bin Wa'il, mengejek beliau sebagai \"abtar\" (terputus keturunannya), seolah-olah nama dan ajarannya akan lenyap sepeninggalnya.\n\nAllah menurunkan surat ini sebagai hiburan: Nabi dianugerahi Al-Kautsar (kebaikan yang melimpah, termasuk sungai di surga), dan justru pembencinyalah yang terputus. Kenyataannya, nama Rasulullah ﷺ disebut setiap hari dalam azan dan shalat hingga kini.",
+      "sources": "Shahih Muslim no. 400; riwayat Ibnu Ishaq dalam Sirah; Tafsir Ibnu Katsir"
+    },
+    {
+      "surah": 112, "from": 1, "to": 4,
+      "title": "Jawaban tentang hakikat Rabb",
+      "period": "Makkiyah",
+      "content": "Diriwayatkan bahwa kaum musyrikin berkata kepada Rasulullah ﷺ, \"Terangkanlah kepada kami nasab Rabbmu.\" Maka Allah menurunkan surat ini: Allah Maha Esa, tempat bergantung segala sesuatu, tidak beranak dan tidak diperanakkan, dan tidak ada satu pun yang setara dengan-Nya.\n\nCatatan: riwayat asbabun nuzul ini diperselisihkan derajatnya oleh para ulama hadist. Namun kandungan surat ini, yaitu tauhid yang murni, disepakati dan Rasulullah ﷺ menyebutnya sebanding dengan sepertiga Al-Qur'an.",
+      "sources": "Sunan At-Tirmidzi no. 3364 (dari Ubay bin Ka'ab); Tafsir Ibnu Katsir"
+    }
+  ],
+  "hadiths": [
+    {
+      "id": "seed-1-1-a", "surah": 1, "ayat": 1,
+      "arabic": "لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ",
+      "translation": "Tidak ada shalat bagi orang yang tidak membaca Fatihatul Kitab (Al-Fatihah).",
+      "narrator": "Ubadah bin Ash-Shamit", "source": "HR. Al-Bukhari no. 756 dan Muslim no. 394", "grade": "shahih",
+      "explanation": "Menunjukkan kedudukan Al-Fatihah sebagai rukun dalam setiap rakaat shalat."
+    },
+    {
+      "id": "seed-1-2-a", "surah": 1, "ayat": 2,
+      "translation": "Allah Ta'ala berfirman: \"Aku membagi shalat antara Aku dan hamba-Ku menjadi dua bagian, dan bagi hamba-Ku apa yang ia minta. Apabila hamba mengucapkan 'Alhamdulillahi rabbil 'alamin', Allah berfirman: 'Hamba-Ku telah memuji-Ku.' Apabila ia mengucapkan 'Ar-rahmanir rahim', Allah berfirman: 'Hamba-Ku telah menyanjung-Ku.' Apabila ia mengucapkan 'Maliki yaumid din', Allah berfirman: 'Hamba-Ku telah mengagungkan-Ku.'\"",
+      "narrator": "Abu Hurairah", "source": "HR. Muslim no. 395 (hadist qudsi)", "grade": "shahih",
+      "explanation": "Setiap ayat Al-Fatihah adalah dialog antara hamba dan Allah, sehingga dianjurkan membacanya dengan tenang dan menghayati maknanya."
+    },
+    {
+      "id": "seed-1-2-b", "surah": 1, "ayat": 2,
+      "translation": "\"Alhamdulillahi rabbil 'alamin, ia adalah As-Sab'ul Matsani dan Al-Qur'an Al-'Azhim yang diberikan kepadaku.\"",
+      "narrator": "Abu Sa'id bin Al-Mu'alla", "source": "HR. Al-Bukhari no. 4474", "grade": "shahih",
+      "explanation": "Rasulullah ﷺ menyebut Al-Fatihah sebagai surat paling agung dalam Al-Qur'an."
+    },
+    {
+      "id": "seed-2-144-a", "surah": 2, "ayat": 144,
+      "translation": "Rasulullah ﷺ shalat menghadap Baitul Maqdis selama enam belas atau tujuh belas bulan, dan beliau suka jika kiblatnya dihadapkan ke Ka'bah. Lalu Allah menurunkan: \"Sungguh Kami melihat wajahmu sering menengadah ke langit...\"",
+      "narrator": "Al-Bara' bin 'Azib", "source": "HR. Al-Bukhari no. 40 dan Muslim no. 525", "grade": "shahih"
+    },
+    {
+      "id": "seed-2-183-a", "surah": 2, "ayat": 183,
+      "arabic": "مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+      "translation": "Barang siapa berpuasa Ramadhan karena iman dan mengharap pahala, diampuni dosanya yang telah lalu.",
+      "narrator": "Abu Hurairah", "source": "HR. Al-Bukhari no. 38 dan Muslim no. 760", "grade": "shahih"
+    },
+    {
+      "id": "seed-2-183-b", "surah": 2, "ayat": 183,
+      "translation": "Islam dibangun di atas lima perkara: syahadat bahwa tidak ada ilah selain Allah dan Muhammad adalah utusan Allah, mendirikan shalat, menunaikan zakat, haji, dan puasa Ramadhan.",
+      "narrator": "Abdullah bin Umar", "source": "HR. Al-Bukhari no. 8 dan Muslim no. 16", "grade": "shahih",
+      "explanation": "Puasa Ramadhan yang diwajibkan dalam ayat ini termasuk salah satu rukun Islam."
+    },
+    {
+      "id": "seed-2-255-a", "surah": 2, "ayat": 255,
+      "translation": "Rasulullah ﷺ bertanya, \"Wahai Abul Mundzir, tahukah engkau ayat mana dari Kitabullah yang ada padamu yang paling agung?\" Aku menjawab, \"Allahu la ilaha illa huwal hayyul qayyum.\" Beliau lalu menepuk dadaku dan bersabda, \"Semoga ilmu menjadi kebahagiaan bagimu, wahai Abul Mundzir.\"",
+      "narrator": "Ubay bin Ka'ab", "source": "HR. Muslim no. 810", "grade": "shahih"
+    },
+    {
+      "id": "seed-2-255-b", "surah": 2, "ayat": 255,
+      "translation": "Abu Hurairah ditugasi menjaga harta zakat, lalu tiga malam berturut-turut datang seseorang mencurinya. Pada malam ketiga orang itu berkata, \"Jika engkau hendak tidur, bacalah Ayat Kursi, niscaya engkau senantiasa dijaga oleh Allah dan setan tidak akan mendekatimu hingga pagi.\" Rasulullah ﷺ bersabda, \"Ia telah jujur kepadamu, padahal ia pendusta. Itu adalah setan.\"",
+      "narrator": "Abu Hurairah", "source": "HR. Al-Bukhari no. 2311", "grade": "shahih",
+      "explanation": "Dasar anjuran membaca Ayat Kursi sebelum tidur."
+    },
+    {
+      "id": "seed-2-284-a", "surah": 2, "ayat": 284,
+      "translation": "Para sahabat datang kepada Rasulullah ﷺ, berlutut dan berkata, \"Kami telah dibebani amalan yang kami sanggupi: shalat, puasa, jihad dan sedekah. Sekarang diturunkan ayat ini dan kami tidak sanggup.\" Beliau bersabda, \"Apakah kalian ingin berkata seperti Ahli Kitab sebelum kalian: 'Kami dengar dan kami durhaka'? Katakanlah: 'Kami dengar dan kami taat, ampunilah kami ya Rabb kami, dan kepada-Mu tempat kembali.'\"",
+      "narrator": "Abu Hurairah", "source": "HR. Muslim no. 125", "grade": "shahih"
+    },
+    {
+      "id": "seed-2-286-a", "surah": 2, "ayat": 286,
+      "arabic": "مَنْ قَرَأَ بِالْآيَتَيْنِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ كَفَتَاهُ",
+      "translation": "Barang siapa membaca dua ayat terakhir surat Al-Baqarah pada suatu malam, maka keduanya telah mencukupinya.",
+      "narrator": "Abu Mas'ud Al-Badri", "source": "HR. Al-Bukhari no. 5009 dan Muslim no. 807", "grade": "shahih",
+      "explanation": "Ulama menjelaskan \"mencukupinya\" bisa bermakna cukup sebagai qiyamul lail, atau cukup sebagai perlindungan dari keburukan pada malam itu."
+    },
+    {
+      "id": "seed-5-3-a", "surah": 5, "ayat": 3,
+      "translation": "Seorang Yahudi berkata kepada Umar, \"Wahai Amirul Mukminin, ada satu ayat dalam kitab kalian yang kalian baca; seandainya ayat itu turun kepada kami kaum Yahudi, niscaya kami jadikan hari itu sebagai hari raya.\" Umar bertanya, \"Ayat apa?\" Ia menjawab, \"Pada hari ini telah Aku sempurnakan untukmu agamamu...\" Umar berkata, \"Kami tahu hari dan tempat ayat itu turun kepada Nabi ﷺ, yaitu ketika beliau berdiri di Arafah pada hari Jumat.\"",
+      "narrator": "Thariq bin Syihab, dari Umar bin Khattab", "source": "HR. Al-Bukhari no. 45 dan Muslim no. 3017", "grade": "shahih"
+    },
+    {
+      "id": "seed-24-11-a", "surah": 24, "ayat": 11,
+      "translation": "Hadist panjang Aisyah tentang peristiwa al-ifk: tertinggalnya beliau dari rombongan karena mencari kalung, fitnah yang disebarkan kaum munafik, sakit dan kesedihannya selama sebulan, hingga Allah menurunkan sepuluh ayat surat An-Nur (ayat 11-20) yang menyatakan kesuciannya.",
+      "narrator": "Aisyah", "source": "HR. Al-Bukhari no. 4750 dan Muslim no. 2770", "grade": "shahih",
+      "explanation": "Ringkasan; teks lengkap hadist ini sangat panjang dan layak dibaca langsung dari Shahih Al-Bukhari, Kitab At-Tafsir."
+    },
+    {
+      "id": "seed-33-56-a", "surah": 33, "ayat": 56,
+      "arabic": "مَنْ صَلَّى عَلَيَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا",
+      "translation": "Barang siapa bershalawat kepadaku satu kali, Allah bershalawat kepadanya sepuluh kali.",
+      "narrator": "Abu Hurairah", "source": "HR. Muslim no. 408", "grade": "shahih"
+    },
+    {
+      "id": "seed-33-56-b", "surah": 33, "ayat": 56,
+      "translation": "Para sahabat bertanya, \"Wahai Rasulullah, kami telah mengetahui cara mengucapkan salam kepadamu, lalu bagaimana cara bershalawat?\" Beliau bersabda, \"Ucapkanlah: Allahumma shalli 'ala Muhammad wa 'ala ali Muhammad, kama shallaita 'ala Ibrahim wa 'ala ali Ibrahim, innaka hamidun majid...\"",
+      "narrator": "Ka'ab bin 'Ujrah", "source": "HR. Al-Bukhari no. 3370", "grade": "shahih",
+      "explanation": "Asal shalawat Ibrahimiyah yang dibaca pada tasyahud akhir."
+    },
+    {
+      "id": "seed-80-1-a", "surah": 80, "ayat": 1,
+      "translation": "Surat 'Abasa diturunkan tentang Ibnu Ummi Maktum yang buta. Ia datang kepada Rasulullah ﷺ dan berkata, \"Wahai Rasulullah, berilah aku petunjuk.\" Saat itu di sisi beliau ada seorang pembesar musyrikin, maka beliau berpaling darinya dan menghadap kepada yang lain.",
+      "narrator": "Aisyah", "source": "HR. At-Tirmidzi no. 3331", "grade": "hasan"
+    },
+    {
+      "id": "seed-96-1-a", "surah": 96, "ayat": 1,
+      "translation": "Permulaan wahyu kepada Rasulullah ﷺ adalah mimpi yang benar... Kemudian datang kepadanya Al-Haq ketika beliau di Gua Hira. Malaikat datang dan berkata, \"Bacalah!\" Beliau menjawab, \"Aku tidak bisa membaca.\" ... (hingga tiga kali), lalu malaikat berkata, \"Iqra' bismi rabbikalladzi khalaq...\" sampai \"...'allamal insana ma lam ya'lam.\"",
+      "narrator": "Aisyah", "source": "HR. Al-Bukhari no. 3 dan Muslim no. 160", "grade": "shahih",
+      "explanation": "Hadist pertama dalam bab permulaan wahyu; menjadi dasar bahwa lima ayat awal Al-'Alaq adalah wahyu pertama."
+    },
+    {
+      "id": "seed-108-1-a", "surah": 108, "ayat": 1,
+      "translation": "Ketika Rasulullah ﷺ di tengah-tengah kami, beliau tertidur sejenak, lalu mengangkat kepala sambil tersenyum dan bersabda, \"Baru saja diturunkan kepadaku sebuah surat,\" lalu beliau membaca Inna a'thainakal kautsar... Beliau bertanya, \"Tahukah kalian apa Al-Kautsar itu? Ia adalah sungai yang dijanjikan Rabbku kepadaku, padanya terdapat kebaikan yang banyak.\"",
+      "narrator": "Anas bin Malik", "source": "HR. Muslim no. 400", "grade": "shahih"
+    },
+    {
+      "id": "seed-112-1-a", "surah": 112, "ayat": 1,
+      "arabic": "وَالَّذِي نَفْسِي بِيَدِهِ إِنَّهَا لَتَعْدِلُ ثُلُثَ الْقُرْآنِ",
+      "translation": "Demi Dzat yang jiwaku di tangan-Nya, sesungguhnya surat itu (Qul huwallahu ahad) sebanding dengan sepertiga Al-Qur'an.",
+      "narrator": "Abu Sa'id Al-Khudri", "source": "HR. Al-Bukhari no. 5013", "grade": "shahih",
+      "explanation": "Ulama menjelaskan bahwa Al-Qur'an memuat tiga pokok: hukum, kisah, dan tauhid; surat ini memuat tauhid secara murni."
+    },
+    {
+      "id": "seed-112-1-b", "surah": 112, "ayat": 1,
+      "arabic": "أَخْبِرُوهُ أَنَّ اللَّهَ يُحِبُّهُ",
+      "translation": "Seorang sahabat yang menjadi imam selalu menutup bacaannya dengan Qul huwallahu ahad. Ketika ditanya, ia menjawab, \"Karena surat itu berisi sifat Ar-Rahman, dan aku suka membacanya.\" Rasulullah ﷺ bersabda, \"Kabarkan kepadanya bahwa Allah mencintainya.\"",
+      "narrator": "Aisyah", "source": "HR. Al-Bukhari no. 7375 dan Muslim no. 813", "grade": "shahih"
+    }
+  ]
+}
